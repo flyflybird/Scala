@@ -1,0 +1,2 @@
+# Scala
+Just for fun
